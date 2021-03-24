@@ -73,6 +73,6 @@ Graduate School of Engineering
 
 Tohoku University, Sendai, JAPAN
 
-E-mail: saito@aero.mech.tohoku.ac.jp
+E-mail: yuji.saito@tohoku.ac.jp
 
 Github: [YujiSaitoJapan](https://github.com/YujiSaitoJapan)
